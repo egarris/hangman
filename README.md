@@ -12,7 +12,7 @@ From the project's description (https://hyperskill.org/projects/69/stages/372/im
 5. If the letter does occur in the word, the computer notifies the player. If there are letters left to guess, the computer invites the player to go on.
 6. When the entire word is uncovered, it's a victory! The game calculates the final score and returns to the main menu.
 
-I've had lots of practice with the topics covered by this project, so I wouldn't say it taught me anything new. Every programmer seems to try their hand at coding a hangman game, so voila! Despite this project's ease, it was helpful to practice manipulating strings and mapping indicies and matching values from one ordered sequence to another. I also spent more than 30 minutes debugging what was only a simple typo, so there's that.
+Every programmer seems to try their hand at coding a hangman game, so voila! I've had lots of practice with the topics covered by this project, so I wouldn't say it taught me anything new. Despite this project's ease, it was helpful to practice manipulating strings and mapping indices and matching values from one ordered sequence to another. I also spent more than 30 minutes debugging what was only a simple typo, so there's that.
 
 Topics covered include:
 - functions
