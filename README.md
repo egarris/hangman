@@ -1,7 +1,5 @@
 # Hangman 
 
------------
-
 This is the 2nd project I completed as part of JetBrains Academy's Python Developer track.
 
 From the project's description (https://hyperskill.org/projects/69/stages/372/implement):
